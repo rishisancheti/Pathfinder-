@@ -10,3 +10,12 @@ Here's the project for path finder algorithm to find the shortest path
 Pathfinding Algo Icon
 
 Path finding algorithms build on top of graph search algorithms and explore routes between nodes, starting at one node and traversing through relationships until the destination has been reached. These algorithms find the cheapest path in terms of the number of hops or weight. Weights can be anything measured, such as time, distance, capacity, or cost
+
+shortest Path
+
+The Shortest Path algorithm calculates the shortest (weighted) path between a pair of nodes. Shortest path is considered to be one of the classical graph problems and has been researched as far back as the 19th century. It has the following use cases:
+
+    Finding directions between physical locations. This is the most common usage, and web mapping tools such as Google Maps use the shortest path algorithm, or a variant of it, to provide driving directions.
+
+    Social networks can use the algorithm to find the degrees of separation between people. For example, when you view someone’s profile on LinkedIn, it will indicate how many people separate you in the connections graph, as well as listing your mutual connections.
+
