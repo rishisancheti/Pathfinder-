@@ -19,3 +19,6 @@ The Shortest Path algorithm calculates the shortest (weighted) path between a pa
 
     Social networks can use the algorithm to find the degrees of separation between people. For example, when you view someone’s profile on LinkedIn, it will indicate how many people separate you in the connections graph, as well as listing your mutual connections.
 
+A*
+
+The A* algorithm improves on the Dijkstra shortest path algorithm, by including extra information by way of a heuristic function that determines which paths to explore next. This optimization results in shortest paths being found more quickly. The A* algorithm can be used to find shortest paths between single pairs of locations, where GPS coordinates are known
