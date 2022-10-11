@@ -41,3 +41,12 @@ It is used as part of the REWIRE data center design algorithm that finds a netwo
 
 Single Source Shortest Path
 The Single Source Shortest Path algorithm calculates the shortest (weighted) path from a node to all other nodes in the graph. Open Shortest Path First is a routing protocol for IP networks. It uses Single Source Shortest Path to detect changes in topology, such as link failures, and come up with a new routing structure in seconds.
+
+Minimum Spanning Tree
+The Minimum Weight Spanning Tree starts from a given node, and finds all its reachable nodes and the set of relationships that connect the nodes together with the minimum possible weight. It has the following use cases:
+
+It was applied to analyze airline and sea connections of Papua New Guinea, and minimize the travel cost of exploring the country. It could be used to help design low-cost tours that visit many destinations across the country. More details can be found in "An Application of Minimum Spanning Trees to Travel Planning".
+
+Analyzing and visualizing correlations in a network of currencies, based on the correlation between currency returns. This is described in "Minimum Spanning Tree Application in the Currency Market".
+
+Tracing the history of transmission of infection in an outbreak supported by exhaustive clinical research. For more information, see Use of the Minimum Spanning Tree Model for Molecular Epidemiological Investigation of a Nosocomial Outbreak of Hepatitis C Virus Infection
