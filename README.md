@@ -31,3 +31,10 @@ Optimizing multiple object tracking by formalizing the motions of targets as flo
 Studying alternative routing on road networks and to recommend top k-paths to the user. Find this study in Alternative Routing: k-Shortest Paths with Limited Overlap
 
 Part of the Finding Diverse High-Quality Plans for Hypothesis Generation process.
+
+All-Pairs Shortest Path
+The All Pairs Shortest Path calculates the shortest (weighted) path between all pairs of nodes. This algorithm has optimizations that make it quicker than calling the Single Source Shortest Path algorithm for every pair of nodes in the graph. It has the following use cases:
+
+Itis used in urban service system problems, such as the location of urban facilities or the distribution or delivery of goods. One example of this is determining the traffic load expected on different segments of a transportation grid. For more information, see Urban Operations Research.
+
+It is used as part of the REWIRE data center design algorithm that finds a network with maximum bandwidth and minimal latency. There are more details about this approach in "REWIRE: An Optimization-based Framework for Data Center Network Design"
