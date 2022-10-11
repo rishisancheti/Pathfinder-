@@ -50,3 +50,12 @@ It was applied to analyze airline and sea connections of Papua New Guinea, and m
 Analyzing and visualizing correlations in a network of currencies, based on the correlation between currency returns. This is described in "Minimum Spanning Tree Application in the Currency Market".
 
 Tracing the history of transmission of infection in an outbreak supported by exhaustive clinical research. For more information, see Use of the Minimum Spanning Tree Model for Molecular Epidemiological Investigation of a Nosocomial Outbreak of Hepatitis C Virus Infection
+
+Random Walk
+Random Walk is an algorithm that provides random paths in a graph. A random walk means that we start at one node, choose a neighbor to navigate to at random or based on a provided probability distribution, and then do the same from that node, keeping the resulting path in a list. It’s similar to how a drunk person traverses a city. It has the following use cases:
+
+It has be shown to relate to Brownian motion and also to the movement and dispersal of animals in the study of Random walk models in biology.
+
+It has been used to analyse ALSI index of the JSE stock exchange and show that the index followed the random walk hypothesis between years 2000 and 2011. This means the movement of stock prices was random and the ability of investors to perform relied more on luck than anything else. Find this study in The Random Walk Theory And Stock Prices: Evidence From Johannesburg Stock Exchange
+
+It is part of the node2vec and graph2vec algorithms, that create node embeddings, as well as the Walktrap and Infomap community detection algorithms.
