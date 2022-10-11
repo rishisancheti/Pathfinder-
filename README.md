@@ -59,3 +59,5 @@ It has be shown to relate to Brownian motion and also to the movement and disper
 It has been used to analyse ALSI index of the JSE stock exchange and show that the index followed the random walk hypothesis between years 2000 and 2011. This means the movement of stock prices was random and the ability of investors to perform relied more on luck than anything else. Find this study in The Random Walk Theory And Stock Prices: Evidence From Johannesburg Stock Exchange
 
 It is part of the node2vec and graph2vec algorithms, that create node embeddings, as well as the Walktrap and Infomap community detection algorithms.
+
+Dijkstra's algorithm is used for our fastest path algorithm because it can find the shortest path between vertices in the graph. The coordinates on the arena are considered as the vertices in the graph.
