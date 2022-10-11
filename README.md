@@ -38,3 +38,6 @@ The All Pairs Shortest Path calculates the shortest (weighted) path between all 
 Itis used in urban service system problems, such as the location of urban facilities or the distribution or delivery of goods. One example of this is determining the traffic load expected on different segments of a transportation grid. For more information, see Urban Operations Research.
 
 It is used as part of the REWIRE data center design algorithm that finds a network with maximum bandwidth and minimal latency. There are more details about this approach in "REWIRE: An Optimization-based Framework for Data Center Network Design"
+
+Single Source Shortest Path
+The Single Source Shortest Path algorithm calculates the shortest (weighted) path from a node to all other nodes in the graph. Open Shortest Path First is a routing protocol for IP networks. It uses Single Source Shortest Path to detect changes in topology, such as link failures, and come up with a new routing structure in seconds.
