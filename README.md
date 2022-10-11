@@ -22,3 +22,12 @@ The Shortest Path algorithm calculates the shortest (weighted) path between a pa
 A*
 
 The A* algorithm improves on the Dijkstra shortest path algorithm, by including extra information by way of a heuristic function that determines which paths to explore next. This optimization results in shortest paths being found more quickly. The A* algorithm can be used to find shortest paths between single pairs of locations, where GPS coordinates are known
+
+Yen’s k-Shortest Paths
+The Yen’s algorithm uses the shortest path algorithm to find the shortest path, 2nd shortest path, 3rd shortest path, and so on up to k-1 deviations of shortest path. It has the following use cases:
+
+Optimizing multiple object tracking by formalizing the motions of targets as flows along the relationships of the spatial graph. Find more in Multiple Object Tracking using K-Shortest Paths Optimization
+
+Studying alternative routing on road networks and to recommend top k-paths to the user. Find this study in Alternative Routing: k-Shortest Paths with Limited Overlap
+
+Part of the Finding Diverse High-Quality Plans for Hypothesis Generation process.
